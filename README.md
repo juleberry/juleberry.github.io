@@ -8,4 +8,4 @@ My interest in cybersecurity comes from seeing how often personal and organizati
 I bring strong attention to detail, persistence in problem-solving, and a commitment to continuous learning—qualities that are essential for both technical support and cybersecurity. My goal is to support users effectively while also contributing to the protection of systems and data, helping organizations reduce risk and maintain trust.
 
 ### Links
-[LinkedIn](https://www.linkedin.com/in/juleberry "Let's Connect on LinkedIn") | [TryHackMe](https://tryhackme.com/p/secureitee "TryHackMe Progress")
+[LinkedIn](https://www.linkedin.com/in/juleberry "Let's Connect on LinkedIn") | [TryHackMe](https://tryhackme.com/p/secureitee "TryHackMe Progress") | [Resume](https://juleberry.github.io/05-2026%20-%20Jule%20Berry%20Customer%20and%20Technical%20Support%20Resume%20-%20Public.pdf "Public Resume")
