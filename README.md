@@ -6,3 +6,6 @@ I’m pursuing a career in cybersecurity by building on my foundation in custome
 My interest in cybersecurity comes from seeing how often personal and organizational data is exposed online, and wanting to better understand how these incidents happen and how they can be prevented. As I transition into more Technical Support roles, I’m actively developing my knowledge of systems, networking, and security fundamentals with the goal of moving into a security-focused position such as a SOC Analyst with hopes to take on a path in Network Forensics.
 
 I bring strong attention to detail, persistence in problem-solving, and a commitment to continuous learning—qualities that are essential for both technical support and cybersecurity. My goal is to support users effectively while also contributing to the protection of systems and data, helping organizations reduce risk and maintain trust.
+
+### Links
+[LinkedIn](https://www.linkedin.com/in/juleberry "Let's Connect on LinkedIn") | [TryHackMe](https://tryhackme.com/p/secureitee "TryHackMe Progress")
