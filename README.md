@@ -1,4 +1,4 @@
-# From Customer Support to Cybersecurity | Building Skills in IT & Security
+# <img src="https://github.com/juleberry/juleberry.github.io/blob/main/JBfun.png" style="width: 10%;" /> From Customer Support to Cybersecurity | Building Skills in IT & Security
 ### Documenting my transition from customer support to IT and cybersecurity through hands-on labs, security projects, and continuous learning.
 
 I’m pursuing a career in cybersecurity by building on my foundation in customer support and technical troubleshooting. Through my experience supporting users, I’ve developed the ability to diagnose issues, analyze patterns, and communicate solutions clearly—skills that are directly applicable to IT support and security roles.
